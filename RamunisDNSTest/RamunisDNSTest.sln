@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RamunisDNSTest", "RamunisDNSTest\RamunisDNSTest.csproj", "{01AE4FEA-94D6-4225-8429-7B00255305E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01AE4FEA-94D6-4225-8429-7B00255305E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01AE4FEA-94D6-4225-8429-7B00255305E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01AE4FEA-94D6-4225-8429-7B00255305E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01AE4FEA-94D6-4225-8429-7B00255305E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6E16783-A05D-42A3-A5BE-A4FC039A451B}
+	EndGlobalSection
+EndGlobal
